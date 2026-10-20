@@ -45,7 +45,7 @@ Smoothly transitions one image into another by warping matching triangles and cr
   </tr>
 </table>
 
-[Full project →](./Image-Morphing)
+[Full project →](./Morphing)
 
 ### Hybrid Images (Frequency-Domain Filtering)
 
